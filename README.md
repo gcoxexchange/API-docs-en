@@ -75,6 +75,6 @@ Update Log
 ## Contact Us
 
 ```
-You can join the following API communication groups with comment of API + your GCOX account email:
+If you need help, please contact us through the following ways:
 1.email:exchange@gcox.com 
 ```
